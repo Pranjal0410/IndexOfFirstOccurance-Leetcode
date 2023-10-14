@@ -1,0 +1,2 @@
+# IndexOfFirstOccurance-Leetcode
+Python
